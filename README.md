@@ -1,6 +1,6 @@
 # Installation intructions:
 - Open the folder called `location selector submod`
-- Copy the `game` and `lib` folders into the DDLC directory (AKA folder where you see `DDLC.exe`)
+- Copy the `game` and `lib` folders into the DDLC directory (AKA the folder where you see `DDLC.exe`)
 
 ## Other info:
 - This submod comes with a updater plugin by Booplicate which can be found [here](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin).
