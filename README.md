@@ -7,7 +7,7 @@ This submod adds various rooms to spend time in with Monika
 
 ## Instructions:
 
-1. Go to the "Releases" tab on the right this webpage, then click on the latest version of "location.submod.zip". It should begin automatically downloading.
+1. Go to the "Releases" tab on the right this webpage or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases), then click on the latest version of "location.submod.zip". It should begin automatically downloading.
 2. Unzip and open the folder called 'location selector submod' (it should be in your 'Downloads' folder).
 3. From the location selector submod folder, copy the 'game' and 'lib' folders into the main 
    'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
