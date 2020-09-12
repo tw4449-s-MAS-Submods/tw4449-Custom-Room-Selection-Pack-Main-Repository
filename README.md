@@ -28,13 +28,14 @@ If you only want some of the rooms, they can be found separately here:
 
 -[Den](https://github.com/Cdino11/Custom-Room-Den)
 
--[kitchen](https://github.com/Cdino11/Custom-Room-Kitchen)
+-[Kitchen](https://github.com/Cdino11/Custom-Room-Kitchen)
 
 ## Troubleshooting:
 
 -If the rooms don't show up or if you get an error, most likely the files weren't placed correctly. Repeat 
-   step 2, making sure to put the "game" and "lib" folders directly into the main "Doki Doki Literature Club" 
+   step 3, making sure to put the "game" and "lib" folders directly into the main "Doki Doki Literature Club" 
    folder.
+   
 -If the problem persists, there may another issue with your install of MAS. Go to the "issues" tab on this 
    webpage and see if anyone else has had the same issue, and try any solutions posted there. If not, leave a 
    description of your problem, and I'll see what I can do.
