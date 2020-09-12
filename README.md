@@ -7,9 +7,9 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 
 ## Instructions:
 
-1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "location.submod.zip". It should begin automatically downloading.
-2. Unzip and open the folder called 'location selector submod' (it should be in your 'Downloads' folder).
-3. From the location selector submod folder, copy the 'game' and 'lib' folders into the main 
+1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Location.Selector.All-in-One.zip". It should begin automatically downloading.
+2. Unzip and open the folder called 'Location.Selector.All-in-One' (it should be in your 'Downloads' folder).
+3. From the Location.Selector.All-in-One folder, copy the 'game' and 'lib' folders into the main 
    'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 4. Launch MAS, and the rooms should be available. Monika will explain how to use them after a minute or so.
 
