@@ -1,5 +1,5 @@
 # Location Selector
-This submod adds various rooms to spend time in with Monika
+This submod adds various custom rooms by tw4449 where you can spend time with Monika.
 
 #### Hi! First of all: thank you for wanting to use my work! It means a lot that I can do something to make people’s time with their Monika that much better.
 
