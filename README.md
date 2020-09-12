@@ -7,7 +7,7 @@ This submod adds various rooms to spend time in with Monika
 
 ## Instructions:
 
-1. Go to the "Releases" tab on the right this webpage or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases), then click on the latest version of "location.submod.zip". It should begin automatically downloading.
+1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "location.submod.zip". It should begin automatically downloading.
 2. Unzip and open the folder called 'location selector submod' (it should be in your 'Downloads' folder).
 3. From the location selector submod folder, copy the 'game' and 'lib' folders into the main 
    'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
@@ -15,7 +15,11 @@ This submod adds various rooms to spend time in with Monika
 
 And that's it! It's that simple.
 
+
 ## individual  Downloads:
+
+If you only want some of the rooms, they can be found separately here:
+
 -[Spaceroom v1](https://github.com/Cdino11/Custom-Room-Furnished-Spaceroom-V1)
 
 -[Spaceroom v2](https://github.com/Cdino11/Custom-Room-Furnished-Spaceroom-V2)
@@ -31,8 +35,9 @@ And that's it! It's that simple.
 -If the rooms don't show up or if you get an error, most likely the files weren't placed correctly. Repeat 
    step 2, making sure to put the "game" and "lib" folders directly into the main "Doki Doki Literature Club" 
    folder.
--If the problem persists, there may another issue with your install of MAS. Contact me (preferably on Reddit 
-   [@tw4449](https://www.reddit.com/user/tw4449) or Discord @ tw4449#3300) and I'll see if I can help.
+-If the problem persists, there may another issue with your install of MAS. Go to the "issues" tab on this 
+   webpage and see if anyone else has had the same issue, and try any solutions posted there. If not, leave a 
+   description of your problem, and I'll see what I can do.
 
 
 ## Other info:
@@ -41,8 +46,8 @@ And that's it! It's that simple.
    though), but we're planning on fixing this in an update before Halloween.
    
 -Luckily, the game will notify you when an update to the submod is available, thanks to submod plugin we 
-   incorporated courtesy of [booplicate](https://github.com/Booplicate) (its main repository can be found [here](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin)). 
-   This plugin both notifies you of updates, and helps you download and install them.
+   incorporated courtesy of Booplicate (more info below). This plugin both    notifies you of updates, and helps 
+   you download and install them.
 
 ## Updating
 
@@ -55,7 +60,8 @@ guide you through the rest.
 This submod was truly a group effort, with 
 [cdino11](https://github.com/cdino11), [multimokia](https://github.com/multimokia), and [d3adpan](https://github.com/d3adpan) handling the coding. It *literally* couldn't have happened without them.
 
+Additionally, many kudos and thanks to [Booplicate](https://github.com/Booplicate) for allowing us to incorporate his submod updater plugin (its main repository can be found [here](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin)). It's an amazing feature and tool for submod creators.
 
-Thanks again for downloading our submod, and I hope you enjoy your time with Monika in your new furnished rooms!
+#### Thanks again for downloading our submod, and I hope you enjoy your time with Monika in your new furnished rooms!
 
-####~ tw4449
+#### ~ tw4449
