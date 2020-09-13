@@ -14,10 +14,7 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 3. From the Location.Selector.All-in-One folder, copy the 'game' and 'lib' folders into the main 
    'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 
-4.1. If you have 400+ affection: Launch MAS, and the rooms will be available. Monika will explain how to use them after a minute or so.
-
-4.2. If you have less than 400 affection: Launch MAS, and Monika should comment you added them, but you can't use them just yet. Once 
-    you reach 400 affection, you can find them under "Hey, Monika..." > "Location" > "Can we go somewhere else?".
+4. If you have 400+ affection: Launch MAS, and the rooms will be available. Monika will explain how to use them after a minute or so. If you have less than 400 affection: Launch MAS, and Monika should comment you added them, but you can't use them just yet. Once you reach 400 affection, you can find them under "Hey, Monika..." > "Location" > "Can we go somewhere else?".
 
 And that's it! It's that simple.
 
