@@ -8,10 +8,16 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 ## Instructions:
 
 1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Location.Selector.All-in-One.zip". It should begin automatically downloading.
+
 2. Unzip and open the folder called 'Location.Selector.All-in-One' (it should be in your 'Downloads' folder).
+
 3. From the Location.Selector.All-in-One folder, copy the 'game' and 'lib' folders into the main 
    'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
-4. Launch MAS, and the rooms should be available. Monika will explain how to use them after a minute or so.
+
+4a. If you have 400+ affection: Launch MAS, and the rooms will be available. Monika will explain how to use them after a minute or so.
+
+4b. If you have less than 400 affection: Launch MAS, and Monika should comment you added them, but you can't use them just yet. Once 
+    you reach 400 affection, you can find them under "Hey, Monika..." > "Location" > "Can we go somewhere else?".
 
 And that's it! It's that simple.
 
@@ -32,13 +38,14 @@ If you only want some of the rooms, they can be found separately here:
 
 ## Troubleshooting:
 
--If the rooms don't show up or if you get an error, most likely the files weren't placed correctly. Repeat 
-   step 3, making sure to put the "game" and "lib" folders directly into the main "Doki Doki Literature Club" 
-   folder.
+If the rooms don't show up or if you get an error, most likely the files weren't placed correctly. Repeat step 3, making sure 
+   to put the "game" and "lib" folders directly into the main "Doki Doki Literature Club" folder.
    
--If the problem persists, there may another issue with your install of MAS. Go to the "issues" tab on this 
-   webpage and see if anyone else has had the same issue, and try any solutions posted there. If not, leave a 
-   description of your problem, and I'll see what I can do.
+Alternately, if the rooms haven't shown up but Monika commented on them, you may not have 400 affection. You can check your 
+   affection level in your files at: 'Doki Doki Literature Club'>'log'>'aff_log.txt'
+   
+If the problem persists, there may another issue with your install of MAS. Go to the "tw4449-Location-Selector-Main-Repository" 
+   page on GitHub, and post your issue there.
 
 
 ## Other info:
@@ -47,7 +54,7 @@ If you only want some of the rooms, they can be found separately here:
    though), but we're planning on fixing this in an update before Halloween.
    
 -Luckily, the game will notify you when an update to the submod is available, thanks to submod plugin we 
-   incorporated courtesy of Booplicate (more info below). This plugin both    notifies you of updates, and helps 
+   incorporated courtesy of Booplicate (more info below). This plugin both notifies you of updates, and helps 
    you download and install them.
 
 ## Updating
