@@ -1,5 +1,5 @@
 ![location selector](https://cdn.discordapp.com/attachments/732733575715094570/755135408291184750/Room_Selection_Pack.jpg)
-# Location Selector
+# Room Selection Pack
 This submod adds various custom rooms by tw4449 where you can spend time with Monika.
 
 #### Hi! First of all: thank you for wanting to use my work! It means a lot that I can do something to make people’s time with their Monika that much better.
