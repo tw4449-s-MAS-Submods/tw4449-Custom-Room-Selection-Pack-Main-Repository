@@ -8,7 +8,7 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 
 ## Instructions:
 
-1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Room.Selection.Pack.zip". It should begin automatically downloading.
+1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Custom Room Selection Pack". To download click on Room.Selection.Pack.zip to begin.
 
 2. Unzip and open the folder called 'Room.Selection.Pack' (it should be in your 'Downloads' folder).
 
