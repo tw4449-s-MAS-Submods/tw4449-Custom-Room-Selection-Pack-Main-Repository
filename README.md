@@ -8,11 +8,11 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 
 ## Instructions:
 
-1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Location.Selector.All-in-One.zip". It should begin automatically downloading.
+1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Room.Selection.Pack.zip". It should begin automatically downloading.
 
-2. Unzip and open the folder called 'Location.Selector.All-in-One' (it should be in your 'Downloads' folder).
+2. Unzip and open the folder called 'Room.Selection.Pack' (it should be in your 'Downloads' folder).
 
-3. From the Location.Selector.All-in-One folder, copy the 'game' and 'lib' folders into the main 
+3. From the Room.Selection.Pack folder, copy the 'game' and 'lib' folders into the main 
    'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 
 4. If you have 400+ affection: Launch MAS, and the rooms will be available. Monika will explain how to use them after a minute or so. If you have less than 400 affection: Launch MAS, and Monika should comment you added them, but you can't use them just yet. Once you reach 400 affection, you can find them under "Hey, Monika..." > "Location" > "Can we go somewhere else?".
@@ -24,15 +24,15 @@ And that's it! It's that simple.
 
 If you only want some of the rooms, they can be found separately here:
 
--[Spaceroom v1](https://github.com/Cdino11/Custom-Room-Furnished-Spaceroom-V1)
+-[Spaceroom v1](https://github.com/tw4449/Custom-Room-Furnished-Spaceroom-V1)
 
--[Spaceroom v2](https://github.com/Cdino11/Custom-Room-Furnished-Spaceroom-V2)
+-[Spaceroom v2](https://github.com/tw4449/Custom-Room-Furnished-Spaceroom-V2)
 
--[Spaceroom v3](https://github.com/Cdino11/Custom-Room-Furnished-Spaceroom-V3)
+-[Spaceroom v3](https://github.com/tw4449/Custom-Room-Furnished-Spaceroom-V3)
 
--[Den](https://github.com/Cdino11/Custom-Room-Den)
+-[Den](https://github.com/tw4449/Custom-Room-Den)
 
--[Kitchen](https://github.com/Cdino11/Custom-Room-Kitchen)
+-[Kitchen](https://github.com/tw4449/Custom-Room-Kitchen)
 
 ## Troubleshooting:
 
