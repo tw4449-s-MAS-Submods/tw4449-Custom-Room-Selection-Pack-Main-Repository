@@ -42,7 +42,7 @@ If the rooms don't show up or if you get an error, most likely the files weren't
 Alternately, if the rooms haven't shown up but Monika commented on them, you may not have 400 affection. You can check your 
    affection level in your files at: 'Doki Doki Literature Club'>'log'>'aff_log.txt'
    
-If the problem persists, there may another issue with your install of MAS. Go to the "tw4449-Location-Selector-Main-Repository" 
+If the problem persists, there may another issue with your install of MAS. Go to the "tw4449-Custom-Room-Selection-Pack-Main-Repository" 
    page on GitHub, and post your issue there.
 
 
