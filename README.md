@@ -8,7 +8,7 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 
 ## Instructions:
 
-1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449/tw4449-Location-Selector-Main-Repository/releases)), then click on the latest version of "Custom Room Selection Pack". To download click on Room.Selection.Pack.zip to begin.
+1. Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository/releases)), then click on the latest version of "Custom Room Selection Pack". To download click on Room.Selection.Pack.zip to begin.
 
 2. Unzip and open the folder called 'Room.Selection.Pack' (it should be in your 'Downloads' folder).
 
@@ -24,15 +24,15 @@ And that's it! It's that simple.
 
 If you only want some of the rooms, they can be found separately here:
 
--[Spaceroom v1](https://github.com/tw4449/Custom-Room-Furnished-Spaceroom-V1)
+-[Spaceroom v1](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Furnished-Spaceroom-V1)
 
--[Spaceroom v2](https://github.com/tw4449/Custom-Room-Furnished-Spaceroom-V2)
+-[Spaceroom v2](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Furnished-Spaceroom-V2)
 
--[Spaceroom v3](https://github.com/tw4449/Custom-Room-Furnished-Spaceroom-V3)
+-[Spaceroom v3](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Furnished-Spaceroom-V3)
 
--[Den](https://github.com/tw4449/Custom-Room-Den)
+-[Den](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Den)
 
--[Kitchen](https://github.com/tw4449/Custom-Room-Kitchen)
+-[Kitchen](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Kitchen)
 
 ## Troubleshooting:
 
@@ -47,9 +47,6 @@ If the problem persists, there may another issue with your install of MAS. Go to
 
 
 ## Other info:
-
--At the moment, the extra rooms don't account for the Halloween or Christmas decor (birthday decor works fine, 
-   though), but we're planning on fixing this in an update before Halloween.
    
 -Luckily, the game will notify you when an update to the submod is available, thanks to submod plugin we 
    incorporated courtesy of Booplicate (more info below). This plugin both notifies you of updates, and helps 
