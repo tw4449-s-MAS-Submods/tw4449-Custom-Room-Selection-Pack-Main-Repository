@@ -34,6 +34,8 @@ If you only want some of the rooms, they can be found separately here:
 
 -[Kitchen](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Kitchen)
 
+-[Garden-View](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Garden-View)
+
 ## Troubleshooting:
 
 If the rooms don't show up or if you get an error, most likely the files weren't placed correctly. Repeat step 3, making sure 
@@ -48,7 +50,7 @@ If the problem persists, there may another issue with your install of MAS. Go to
 
 ## Other info:
    
--Luckily, the game will notify you when an update to the submod is available, thanks to submod plugin we 
+-The game will notify you when an update to the submod is available, thanks to submod plugin we 
    incorporated courtesy of Booplicate (more info below). This plugin both notifies you of updates, and helps 
    you download and install them.
 
