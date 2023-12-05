@@ -30,6 +30,8 @@ If you only want some of the rooms, they can be found separately here:
 
 -[Spaceroom v3](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Furnished-Spaceroom-V3)
 
+-[Spaceroom v4](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Furnished-Spaceroom-V4)
+
 -[Den](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Den)
 
 -[Kitchen](https://github.com/tw4449-s-MAS-Submods/Custom-Room-Kitchen)
@@ -63,7 +65,7 @@ guide you through the rest.
 ## Acknowledgments:
 
 This submod was truly a group effort, with 
-[cdino11](https://github.com/cdino11), [multimokia](https://github.com/multimokia), and [d3adpan](https://github.com/d3adpan) handling the coding. It *literally* couldn't have happened without them.
+[cdino11](https://github.com/cdino11), [multimokia](https://github.com/multimokia), [d3adpan](https://github.com/d3adpan), and [robTTm](https://github.com/robTTM) handling the coding. It *literally* couldn't have happened without them.
 
 Additionally, many kudos and thanks to [Booplicate](https://github.com/Booplicate) for allowing us to incorporate his submod updater plugin (its main repository can be found [here](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin)). It's an amazing feature and tool for submod creators.
 
