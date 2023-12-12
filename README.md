@@ -17,6 +17,10 @@ This submod adds various custom rooms by tw4449 where you can spend time with Mo
 
 4. If you have 400+ affection: Launch MAS, and the rooms will be available. Monika will explain how to use them after a minute or so. If you have less than 400 affection: Launch MAS, and Monika should comment you added them, but you can't use them just yet. Once you reach 400 affection, you can find them under "Hey, Monika..." > "Location" > "Can we go somewhere else?".
 
+Instructions for Furnished Spaceroom 4 fireplace:
+
+To turn the fireplace on or off, go to "Hey, Monika..." > "Location" > "About the fireplace..." and ask her to light it or put it out, depending on its current condition.
+
 And that's it! It's that simple.
 
 
